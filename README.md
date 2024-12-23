@@ -1,6 +1,6 @@
 # Mosaico com Tampinhas de Garrafa PET
 
-![Imagem Final do Mosaico](assets/output.png)
+![Imagem Final do Mosaico](assets/output2.png)
 
 Projeto apresentado ao curso de Engenharia de Computação do Centro de Informática, da Universidade Federal da Paraíba, como requisito de avaliação na disciplina de Introdução ao Processamento Digital de Imagens 2023.2.
 
